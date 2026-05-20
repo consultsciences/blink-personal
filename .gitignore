@@ -1,0 +1,9 @@
+/node_modules
+/.next/
+/out/
+.next
+.env*.local
+.vercel
+*.sqlite
+*.db
+.DS_Store
